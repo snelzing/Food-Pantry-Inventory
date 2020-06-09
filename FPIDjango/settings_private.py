@@ -30,7 +30,7 @@ DB_USER = "postgres"
 DB_PSWD = "PSWD"
 
 # The host for the database server
-DB_HOST = "localhost"  # can also be '127.0.0.1'
+DB_HOST = "postgres"  # can also be '127.0.0.1'
 
 # The port used by the database server
 DB_PORT = "5432"
